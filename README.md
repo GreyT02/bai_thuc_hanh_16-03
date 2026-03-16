@@ -6,14 +6,7 @@
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](screenshots/home.jpg)
-
-### Order Screen
-![Order Screen](screenshots/order.jpg)
-
-### Inbox Screen
-![Inbox Screen](screenshots/inbox.jpg)
-
-### Profile Screen
-![Profile Screen](screenshots/profile.jpg)
+![Home Screen](Screenshots/home.jpg)
+![Order Screen](Screenshots/order.jpg)
+![Inbox Screen](Screenshots/inbox.jpg)
+![Profile Screen](Screenshots/profile.jpg)
